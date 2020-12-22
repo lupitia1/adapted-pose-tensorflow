@@ -1,3 +1,6 @@
+#IMPORTANT NOTE: This repo is an adapted version of the https://github.com/eldar/pose-tensorflow project
+#ORIGINAL README:
+
 # Human Pose Estimation with TensorFlow
 
 ![](images/teaser.png)
