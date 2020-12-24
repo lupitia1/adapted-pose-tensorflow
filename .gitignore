@@ -1,0 +1,12 @@
+#To ignore
+dataset/
+__pycache__
+models/mpii/train/*
+models/pretrained/resnet_v1_101.ckpt
+lib/*
+log/*
+
+#To ignore to ignore
+!dataset/images/download_dataset.sh
+!models/mpii/train/pose_cfg.yaml
+# !lib/cudnn-10.0-linux-x64-v7.6.0.64.tgz
