@@ -1,4 +1,11 @@
 #IMPORTANT NOTE: This repo is an adapted version of the https://github.com/eldar/pose-tensorflow project
+
+
+You can find information about the saved_model generated in:
+<p align="center">
+    <a href="https://diatomea-my.sharepoint.com/:f:/g/personal/e_fernandez_diatomea_tech/EqVhhae9U_5PiqUIUk1k6yUBzz-qt2XvDKv0OTbCID-8hg?e=DGLY8Y">Link to saved model</a>
+</p>
+
 #ORIGINAL README:
 
 # Human Pose Estimation with TensorFlow
